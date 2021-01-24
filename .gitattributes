@@ -2,3 +2,7 @@
 *.js linguist-vendored=false
 *.html linguist-detectable=false
 *.css linguist-detectable=false
+*.js linguist-detectable=false
+*.less linguist-detectable=false
+*.cpp linguist-detectable=false
+*.scss linguist-detectable=false
